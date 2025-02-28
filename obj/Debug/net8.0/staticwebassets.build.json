@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GhtXaOHIrDMOk3RNRyQfp2DJcKyHYg10zFNx+4VEubY=",
+  "Source": "GymApp",
+  "BasePath": "_content/GymApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
