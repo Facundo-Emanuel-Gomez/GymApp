@@ -19,9 +19,6 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Configuración inicial del estado de la base de datos
-string dbStatusMessage = "⏳ Verificando conexión a la base de datos...";
-
 using (var scope = app.Services.CreateScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<GymDBContext>();
@@ -50,12 +47,15 @@ using (var scope = app.Services.CreateScope())
     }
 }
 
-// Configura Swagger
+// Configure the HTTP request pipeline.
+
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
 
 app.UseHttpsRedirection();
 app.UseAuthorization();

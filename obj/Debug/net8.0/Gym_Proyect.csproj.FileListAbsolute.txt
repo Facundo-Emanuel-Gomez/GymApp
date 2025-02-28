@@ -169,3 +169,4 @@ C:\Users\facue\Desktop\ProyectoGym\Backend\Gym_Proyect\Gym_Proyect\obj\Debug\net
 C:\Users\facue\Desktop\ProyectoGym\Backend\Gym_Proyect\Gym_Proyect\obj\Debug\net8.0\Gym_Proyect.pdb
 C:\Users\facue\Desktop\ProyectoGym\Backend\Gym_Proyect\Gym_Proyect\obj\Debug\net8.0\Gym_Proyect.genruntimeconfig.cache
 C:\Users\facue\Desktop\ProyectoGym\Backend\Gym_Proyect\Gym_Proyect\obj\Debug\net8.0\ref\Gym_Proyect.dll
+C:\Users\facue\Desktop\ProyectoGym\Backend\Gym_Proyect\Gym_Proyect\obj\Debug\net8.0\Gym_Proyect.sourcelink.json

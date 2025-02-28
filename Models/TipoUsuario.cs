@@ -3,7 +3,7 @@
     public class TipoUsuario
     {
         public int TipoUsuarioID { get; set; }
-        public string Nombre { get; set; }
-        public string Descripcion { get; set; }
+        public required string Nombre { get; set; }
+        public required string Descripcion { get; set; }
     }
 }
